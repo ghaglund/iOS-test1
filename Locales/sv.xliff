@@ -30,7 +30,7 @@
     <body>
       <trans-unit id="Hello World!">
         <source xml:lang="en">Hello World!</source>
-        <target xml:lang="sv">Välkommen till Världen!</target>
+        <target xml:lang="sv">Hej kom och hjälp mig!</target>
         <note>How to say Hello World?</note>
       </trans-unit>
     </body>

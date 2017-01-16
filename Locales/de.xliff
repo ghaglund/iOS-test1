@@ -16,7 +16,7 @@
     <body>
       <trans-unit id="gC2-UI-uDh.normalTitle">
         <source xml:lang="en">Button</source>
-        <target xml:lang="de">Taste</target>
+        <target xml:lang="de">Tasten</target>
         <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "gC2-UI-uDh";</note>
       </trans-unit>
       <trans-unit id="jAV-vU-k3N.text">

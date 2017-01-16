@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="iOS-test/Info.plist" datatype="plaintext" source-language="en" target-language="sv">
+    <body>
+      <trans-unit id="CFBundleName">
+        <source xml:lang="en">$(PRODUCT_NAME)</source>
+        <target xml:lang="sv">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source xml:lang="en">1.0</source>
+        <target xml:lang="sv">1.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS-test/Base.lproj/Main.storyboard" datatype="plaintext" source-language="en" target-language="sv">
+    <body>
+      <trans-unit id="gC2-UI-uDh.normalTitle">
+        <source xml:lang="en">Button</source>
+        <target xml:lang="sv">Knapp</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "gC2-UI-uDh";</note>
+      </trans-unit>
+      <trans-unit id="jAV-vU-k3N.text">
+        <source xml:lang="en">Label</source>
+        <target xml:lang="sv">Etikett</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "jAV-vU-k3N";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS-test/Localizable.strings" datatype="plaintext" source-language="en" target-language="sv">
+    <body>
+      <trans-unit id="Hello World!">
+        <source xml:lang="en">Hello World!</source>
+        <target xml:lang="sv">Hallå Världen!</target>
+        <note>How to say Hello World?</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

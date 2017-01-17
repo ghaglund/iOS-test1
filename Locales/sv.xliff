@@ -15,7 +15,7 @@
   <file original="iOS-test/Base.lproj/Main.storyboard" datatype="plaintext" source-language="en" target-language="sv">
     <body>
       <trans-unit id="gC2-UI-uDh.normalTitle">
-        <source xml:lang="en">Button</source>
+        <source xml:lang="en">Button push</source>
         <target xml:lang="sv">Knapp</target>
         <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "gC2-UI-uDh";</note>
       </trans-unit>
@@ -26,7 +26,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="iOS-test/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="sv">
+  <file original="iOS-test/Localizable.strings" datatype="plaintext" source-language="en" target-language="sv">
     <body>
       <trans-unit id="Hello World!">
         <source xml:lang="en">Hello World!</source>

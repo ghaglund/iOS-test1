@@ -15,7 +15,7 @@
   <file original="iOS-test/Base.lproj/Main.storyboard" datatype="plaintext" source-language="en" target-language="de">
     <body>
       <trans-unit id="gC2-UI-uDh.normalTitle">
-        <source xml:lang="en">Button</source>
+        <source xml:lang="en">Button push</source>
         <target xml:lang="de">Tasten</target>
         <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "gC2-UI-uDh";</note>
       </trans-unit>

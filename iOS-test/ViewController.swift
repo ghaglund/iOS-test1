@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         displayLabel.text = NSLocalizedString("Hello World!", comment: "What does the fox say?")
+        displayLabel.text = NSLocalizedString("account.addRelation", comment: "Add relation between accounts")
     }
 
     override func didReceiveMemoryWarning() {

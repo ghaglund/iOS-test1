@@ -1,3 +1,5 @@
 /* What does the fox say? */
 "Hello World!" = "Hallå Världen!";
 
+/* Add relation between accounts */
+"account.addRelation" = "Lägg till relation?";

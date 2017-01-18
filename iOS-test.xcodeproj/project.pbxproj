@@ -36,6 +36,10 @@
 		C201C7FB1E2CBAD30055EDB5 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		C201C7FC1E2CBAD30055EDB5 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C201C7FD1E2CBAD40055EDB5 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C2FCEB961E2FA596000C4B27 /* en-US */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-US"; path = "en-US.lproj/Main.strings"; sourceTree = "<group>"; };
+		C2FCEB971E2FA597000C4B27 /* en-US */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-US"; path = "en-US.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		C2FCEB981E2FA597000C4B27 /* en-US */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-US"; path = "en-US.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		C2FCEB991E2FA597000C4B27 /* en-US */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-US"; path = "en-US.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +173,7 @@
 				C201C7EA1E2CAF7B0055EDB5 /* en */,
 				C201C7F61E2CAF970055EDB5 /* sv */,
 				C201C7FA1E2CBAD30055EDB5 /* de */,
+				C2FCEB961E2FA596000C4B27 /* en-US */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -180,6 +185,7 @@
 				C201C7EB1E2CAF7C0055EDB5 /* en */,
 				C201C7F71E2CAF970055EDB5 /* sv */,
 				C201C7FB1E2CBAD30055EDB5 /* de */,
+				C2FCEB971E2FA597000C4B27 /* en-US */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -190,6 +196,7 @@
 				C201C7EF1E2CAF7C0055EDB5 /* en */,
 				C201C7F81E2CAF970055EDB5 /* sv */,
 				C201C7FC1E2CBAD30055EDB5 /* de */,
+				C2FCEB981E2FA597000C4B27 /* en-US */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -200,6 +207,7 @@
 				C201C7F41E2CAF7D0055EDB5 /* en */,
 				C201C7F91E2CAF970055EDB5 /* sv */,
 				C201C7FD1E2CBAD40055EDB5 /* de */,
+				C2FCEB991E2FA597000C4B27 /* en-US */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -341,6 +349,7 @@
 				C201C7E91E2656FA0055EDB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

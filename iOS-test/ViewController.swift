@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var displayLabel: UILabel!
     @IBAction func tabButton(_ sender: UIButton) {
     }
+    @IBOutlet weak var displayLabel2: UILabel!
+    @IBOutlet weak var inputField: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

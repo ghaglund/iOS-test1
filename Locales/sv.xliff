@@ -26,11 +26,11 @@
       </trans-unit>
     </body>
   </file>
-  <file original="iOS-test/Localizable.strings" datatype="plaintext" source-language="en" target-language="sv">
+  <file original="iOS-test/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="sv">
     <body>
       <trans-unit id="Hello World!">
         <source xml:lang="en">Hello World!</source>
-        <target xml:lang="sv">Hallå Världen!</target>
+        <target xml:lang="sv">Hej kom och hjälp mig!</target>
         <note>How to say Hello World?</note>
       </trans-unit>
     </body>

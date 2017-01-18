@@ -1,57 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="iOS-test/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="en-US">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
-    <body/>
-  </file>
-  <file original="iOS-test/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="en-US">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="iOS-test/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="en-US">
     <body>
-      <trans-unit id="NE8-aM-B1X.text">
-        <source>Label</source>
-        <note>Class = "UILabel"; text = "Label"; ObjectID = "NE8-aM-B1X";</note>
+      <trans-unit id="account.addRelation">
+        <source xml:lang="en">Relation</source>
+        <target xml:lang="en-US">Relation</target>
+        <note>Add relation between accounts</note>
       </trans-unit>
+    </body>
+  </file>
+  <file original="iOS-test/Info.plist" datatype="plaintext" source-language="en" target-language="en-US">
+    <body>
+      <trans-unit id="CFBundleName">
+        <source xml:lang="en">$(PRODUCT_NAME)</source>
+        <target xml:lang="en-US">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source xml:lang="en">1.0</source>
+        <target xml:lang="en-US">1.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS-test/Base.lproj/Main.storyboard" datatype="plaintext" source-language="en" target-language="en-US">
+    <body>
       <trans-unit id="gC2-UI-uDh.normalTitle">
-        <source>Button</source>
+        <source xml:lang="en">Button push</source>
+        <target xml:lang="en-US">Button</target>
         <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "gC2-UI-uDh";</note>
       </trans-unit>
       <trans-unit id="jAV-vU-k3N.text">
-        <source>Label</source>
+        <source xml:lang="en">Label</source>
+        <target xml:lang="en-US">Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "jAV-vU-k3N";</note>
       </trans-unit>
-    </body>
-  </file>
-  <file original="iOS-test/Info.plist" source-language="en" datatype="plaintext" target-language="en-US">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
+      <trans-unit id="NE8-aM-B1X.text">
+        <source xml:lang="en">Label</source>
+        <target xml:lang="en-US">Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "NE8-aM-B1X";</note>
       </trans-unit>
     </body>
   </file>
-  <file original="iOS-test/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="en-US">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
+  <file original="iOS-test/Localizable.strings" datatype="plaintext" source-language="en" target-language="en-US">
     <body>
       <trans-unit id="Hello World!">
-        <source>Hello World!</source>
-        <target>What what in tha butt</target>
-        <note>What does the fox say?</note>
-      </trans-unit>
-      <trans-unit id="account.addRelation">
-        <source>Relation</source>
-        <target>Relation</target>
-        <note>Add relation between accounts</note>
+        <source xml:lang="en">Hello World!</source>
+        <target xml:lang="en-US">What what in tha butt</target>
+        <note>How to say Hello World?</note>
       </trans-unit>
     </body>
   </file>

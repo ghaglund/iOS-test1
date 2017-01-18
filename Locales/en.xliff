@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="iOS-test/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="en">
+    <body>
+      <trans-unit id="account.addRelation">
+        <source xml:lang="en">Relation</source>
+        <target xml:lang="en">Relation</target>
+        <note>Add relation between accounts</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="iOS-test/Info.plist" datatype="plaintext" source-language="en" target-language="en">
     <body>
       <trans-unit id="CFBundleName">
@@ -23,6 +32,11 @@
         <source xml:lang="en">Label</source>
         <target xml:lang="en">Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "jAV-vU-k3N";</note>
+      </trans-unit>
+      <trans-unit id="NE8-aM-B1X.text">
+        <source xml:lang="en">Label</source>
+        <target xml:lang="en">Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "NE8-aM-B1X";</note>
       </trans-unit>
     </body>
   </file>

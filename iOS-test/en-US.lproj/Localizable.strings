@@ -1,5 +1,6 @@
-/* How to say Hello World? */
-"Hello World!" = "Hello World!";
+/* What does the fox say? */
+"Hello World!" = "What what in tha butt";
 
 /* Add relation between accounts */
 "account.addRelation" = "Relation";
+

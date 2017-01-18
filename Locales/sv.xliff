@@ -18,6 +18,8 @@
       <trans-unit id="gC2-UI-uDh.normalTitle">
         <source>Button</source>
         <target>Knapp</target>
+        <source xml:lang="en">Button</source>
+        <target xml:lang="sv">Knapp</target>
         <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "gC2-UI-uDh";</note>
       </trans-unit>
       <trans-unit id="jAV-vU-k3N.text">
@@ -42,10 +44,11 @@
       </trans-unit>
     </body>
   </file>
-  <file original="iOS-test/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="sv">
+  <file original="iOS-test/Localizable.strings" source-language="en" datatype="plaintext" target-language="sv">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
     </header>
+  <file original="iOS-test/Localizable.strings" datatype="plaintext" source-language="en" target-language="sv">
     <body>
       <trans-unit id="Hello World!">
         <source>Hello World!</source>
